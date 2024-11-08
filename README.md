@@ -1,6 +1,9 @@
 # ResearchTrack_Assignment1
 This is a report for the first assignment of the Research Track course, for the *Robotics Engineering Master's degree* at the University of Genoa.
 
+## Programming language 
+Python
+
 ## Simulator
 This is a simple, portable robot simulator developed by Student Robotics. The simulator requires a Python 2.7 installation, the pygame library, PyPyBox2D, and PyYAML. The simulator shows a space where a robot can move and interact with tokens. In general tokens can be gold or silver. In this specific case, we have only gold tokens. Other important information are in the `README` of the branch assignment23. 
 
